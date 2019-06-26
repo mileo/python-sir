@@ -85,7 +85,6 @@ buildout.cfg
 .mr.developer.cfg
 etc
 share
-src
 *.egg
 
 # PyInstaller
